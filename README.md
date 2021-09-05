@@ -1,4 +1,4 @@
-# Setting up VIM
+# Setting up Vim
 > ⚠️ This set up is for macOS users
 
 <br/>
