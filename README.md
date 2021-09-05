@@ -1,5 +1,5 @@
 # Setting up VIM
-> ⚠️ This set up is for Mac OS users
+> ⚠️ This set up is for macOS users
 
 <br/>
 
