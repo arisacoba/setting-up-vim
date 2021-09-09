@@ -25,7 +25,12 @@
 
 4. Set up `.vimrc` via [Maximum Awesome](https://github.com/square/maximum-awesome)
 5. (Personal preference) Update configuration to trigger NerdTree to `,` + `n`
-6. (Personal preference) Enable `colorscheme dracula`. Add this in `.vimrc`
+6. Show hidden files for NerdTree. Go to `.vimrc.local` and add this
+    
+    ```bash
+    let NERDTreeShowHidden=1
+    ```
+7. (Personal preference) Enable `colorscheme dracula`. Add this in `.vimrc`
     1. With Maximum Awesome, default plugin manager is Vundle. Add this inside `.vimrc.bundles.local`
 
     ```bash
